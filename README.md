@@ -28,7 +28,9 @@ __📍 Background:__ 일회용 플라스틱 컵 소비량의 증가로 초래되
 ### Clustering 🔠
 
 ![image](https://user-images.githubusercontent.com/99258338/205933285-c7f8bdbd-2d6c-493b-8066-c82b691491ab.png)
+
 ![image](https://user-images.githubusercontent.com/99258338/205933402-cb8db2cd-f943-4887-8350-b8787a89e4be.png)
+
 ![image](https://user-images.githubusercontent.com/99258338/205933424-31afc255-35e1-46b6-950c-1d4a94ef145e.png)
 
 ### p-median 🏬
